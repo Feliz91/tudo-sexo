@@ -1,0 +1,11 @@
+{
+  "name": "TUDO SEXO",
+  "short_name": "TUDO SEXO",
+  "description": "Transforma qualquer coisa em sexo.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0508",
+  "theme_color": "#c41e3a",
+  "orientation": "portrait",
+  "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
